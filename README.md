@@ -86,7 +86,7 @@ GitGrade AI is built using real-world software engineering and code-analysis tec
 ## 🚀 Live Demo
 
 👉 **Public App Link:**  
-(Add your Streamlit app link here after deployment)
+https://gitgrade-ai-gqrhvlxlfkyusuwpxnpanq.streamlit.app/
 ---
 
 ## ⚙️ How to Run Locally
